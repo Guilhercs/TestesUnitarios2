@@ -7,7 +7,7 @@ import { LikeWidgetModule } from './shared/components/like-widget/like-widget.mo
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserModule,
